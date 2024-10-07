@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ausastriv.github.io/sitemap.html.gz
+Sitemap: https://ausastriv.github.io/app/sitemap.html.gz
+Sitemap: https://ausastriv.github.io/assets/sitemap.html.gz
+Sitemap: https://ausastriv.github.io/css/sitemap.html.gz
+Sitemap: https://ausastriv.github.io/data/sitemap.html.gz
+Sitemap: https://ausastriv.github.io/includes/sitemap.html.gz
+Sitemap: https://ausastriv.github.io/item/sitemap.html.gz
+Sitemap: https://ausastriv.github.io/src/sitemap.html.gz
